@@ -1,2 +1,2 @@
 # java101
-## patika.dev java101 Homework
+## Patika.dev Java101 Homework
